@@ -21,7 +21,7 @@ A sleek and accessible web application that fetches real-time weather informatio
 
 ## Demo
 
-_Add your live demo link here if hosted online._
+(https://daliaelkady.github.io/Weather-app/)
 
 ## Technologies Used
 
