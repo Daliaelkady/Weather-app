@@ -30,7 +30,6 @@ _Add your live demo link here if hosted online._
 - Vanilla JavaScript (Fetch API, async/await)
 - OpenWeatherMap API
 
-## Getting Started
 
 ### Prerequisites
 
@@ -40,6 +39,8 @@ _Add your live demo link here if hosted online._
 ### Installation
 
 1. Clone the repository:
+   
+(https://github.com/Daliaelkady/Weather-app.git)
 
 2. Open the project folder and locate script.js.
 
